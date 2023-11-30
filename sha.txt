@@ -1,0 +1,6 @@
+command for generate SHA 1 and SHA 254 key is below:
+
+
+keytool -list -v -keystore "C:\Users(your folder name)\Asus(your folder name)\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+(for generating sha key in terminal and cmd)
